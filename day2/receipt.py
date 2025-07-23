@@ -11,3 +11,4 @@ print("Amout of pizzas: ",a,"X 100 =", x)
 print("Amount of puffs: ",b,"X 20 =", y)
 print("Amount of drinks: ",c,"X 10 =", z)
 print("Total amount: ", total)
+
